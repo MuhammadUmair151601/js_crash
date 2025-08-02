@@ -1,0 +1,7 @@
+#btn , #wishlist , #Add{
+  padding: 10px;
+  background-color: rgb(130, 130, 249);
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
