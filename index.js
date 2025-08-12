@@ -32,4 +32,4 @@
 //   alert('please insert the correct values:')
 // }
 // }
-
+// functions, return and parameters done;
