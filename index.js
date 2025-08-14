@@ -34,3 +34,37 @@
 // }
 // functions, return and parameters done;
 // functions completed:
+// function numbers(num){
+//   // +prompt('please put a number');
+//   if(num%2 === 0){
+//     console.log('its an even number');
+//   }else if(num%2 !== 0){
+//     console.log('its an odd number')
+//   }else{
+//     console.log('plaese put a valid number');
+//   }
+//   return num;
+// }
+// console.log(numbers(10));
+// console.log(numbers(13));
+// console.log(numbers(14));
+
+// function compare(num1, num2){
+  
+//   if(num1>num2){
+//     return(`${num1} is greater than ${num2}`);
+//   }else if(num2>num1){
+//     return(`${num2} is greater than ${num1}`);
+//   }else{
+//     return('plaese put a valid number');
+//   }
+// }
+// console.log(compare(10,12));
+// console.log(compare(13,9));
+// console.log(compare(14,23));
+
+// function convert(C){
+//   return ((9/5)*C + 32);
+// }
+
+// console.log(convert(37));
