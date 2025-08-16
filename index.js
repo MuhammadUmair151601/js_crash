@@ -68,3 +68,6 @@
 // }
 
 // console.log(convert(37));
+// Objects
+// syntax
+// obj methods
