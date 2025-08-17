@@ -71,3 +71,17 @@
 // Objects
 // syntax
 // obj methods
+// Json -- Js object notation.
+// same as JS object but here the key values are inside the " ". means the key values are also strings.
+// Local storage
+// date 
+// DOM
+// Array
+// Array.isarray(); true or false
+// array.length; shows the num of elements.
+// push / pop add or remove element to end.
+// shift / unshift add or remove element to start.
+// arr.splice used to delete or add specific no of elements.(1, 2) 1st se start karo 2 ko delete karo.
+// tostring convert the array to string.
+// arr.sort() sort the elements in arr.
+// 
