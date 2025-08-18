@@ -84,4 +84,15 @@
 // arr.splice used to delete or add specific no of elements.(1, 2) 1st se start karo 2 ko delete karo.
 // tostring convert the array to string.
 // arr.sort() sort the elements in arr.
-// 
+// Loops
+// let num = 1;
+// while(num <=10){
+//   console.log(num);
+//   num++;
+// }
+// do while
+do {
+
+}
+while()
+// runs at least once:
