@@ -91,8 +91,14 @@
 //   num++;
 // }
 // do while
-do {
-
-}
-while()
+// let num = 1;
+// do {
+//   console.log(num);
+//   num++
+// }
+// while(num <=10)
 // runs at least once:
+// FOR:
+// for (initialization; condition; increment or decrement:){
+// statement }
+// array exercise:
