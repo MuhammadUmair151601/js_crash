@@ -102,3 +102,11 @@
 // for (initialization; condition; increment or decrement:){
 // statement }
 // array exercise:
+// anonymous function
+// arrow function
+// timeout function
+// let alarm = function(){
+//   console.log('subha hogayi hay beta')
+// }
+// setTimeout(alarm, 7000)
+// Cleartimeout(timerID)
