@@ -121,3 +121,22 @@
 // let buttonElement = document.querySelector('#btn');
 // buttonElement.addEventListener('click', event =>
 // {console.log('i am clicked')});
+// ForEach loop:
+// let arr = [1,2,3,4,5];
+// for (i=0; i<arr.length; i++){
+//   console.log(arr[i]);
+// }
+// now in forEach loop we can write it as:
+// let arr = [1,2,3,4,5]
+// arr.forEach (num => console.log(num));
+// let arr = [1,2,3,4,5];
+// function search(arr, num){
+//   for(i=0; i<=arr.length; i++){
+//     if(i === num){
+//       console.log(`element found at ${i-1}`);
+//       return;
+//     }
+//   }
+//    console.log(`Element was not found:`)
+// }
+// search(arr, 09);
