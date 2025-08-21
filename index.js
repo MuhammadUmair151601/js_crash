@@ -110,3 +110,9 @@
 // }
 // setTimeout(alarm, 7000)
 // Cleartimeout(timerID)
+// set interval
+// let alarm = function(){
+//     console.log('subha hogayi hay beta')
+//   }
+//   setInterval(alarm, 5000)
+// clearinterval:
