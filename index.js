@@ -116,3 +116,8 @@
 //   }
 //   setInterval(alarm, 5000)
 // clearinterval:
+// eventlisteners:
+// addeventlistener
+// let buttonElement = document.querySelector('#btn');
+// buttonElement.addEventListener('click', event =>
+// {console.log('i am clicked')});
