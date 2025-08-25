@@ -140,3 +140,13 @@
 //    console.log(`Element was not found:`)
 // }
 // search(arr, 09);
+// let arr = [1,2,3,4,5,6,7,8,9,10];
+// arr.forEach(num => {
+//   if(num === 5){
+//     return;
+//   }
+//   console.log(`visited ${num}`);
+// });
+// here return works as break
+// react intro video done.
+
